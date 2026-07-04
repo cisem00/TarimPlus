@@ -51,8 +51,8 @@ Authentication is handled with JWT: protected requests are verified before they 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/cisem00/TarimPlus+.git
-   cd TarimPlus+
+   git clone https://github.com/cisem00/TarimPlus.git
+   cd TarimPlus
    ```
 
 2. Install dependencies:
