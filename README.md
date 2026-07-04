@@ -69,19 +69,29 @@ Authentication is handled with JWT: protected requests are verified before they 
 ## Screenshots
 
 - Landing page
+  
 <img width="456" height="249" alt="Ekran Resmi 2026-07-04 13 11 29" src="https://github.com/user-attachments/assets/4ba84ca7-38fe-4280-9df4-68441efb000c" />
 
+
 - Sign up / Login
+  
 <img width="455" height="246" alt="Ekran Resmi 2026-07-04 13 11 59" src="https://github.com/user-attachments/assets/c6bdd4b9-27f7-454b-8149-f396871d83b0" />
 
+
 - Product listings (customer view)
+  
   <img width="453" height="242" alt="Ekran Resmi 2026-07-04 13 12 23" src="https://github.com/user-attachments/assets/0ce92052-96c6-4f78-b5f4-812c769bf741" />
+  
 
 - Job listings (worker view)
+  
   <img width="450" height="245" alt="Ekran Resmi 2026-07-04 13 13 02" src="https://github.com/user-attachments/assets/cad43c22-ba3c-4087-b6c4-d61a291ed177" />
+  
 
 - Create listing page
+  
   <img width="456" height="242" alt="Ekran Resmi 2026-07-04 13 13 27" src="https://github.com/user-attachments/assets/a9fc51bd-b201-42ce-a2d9-c34b74f426ef" />
+  
 
 
 ---
